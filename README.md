@@ -3,7 +3,7 @@ lmu_omm_meme_app
 
 | Lecture  | progress | feature |
 | --- | --- | --- |
-| 1   | ![Progress](https://progress-bar.dev/1/)| [1. Editor - Upload templates](#1.-editor---upload-templates)
+| 1   | ![Progress](https://progress-bar.dev/1/)| 1. Editor - Upload templates
 | 2   | ![Progress](https://progress-bar.dev/1/)| 2. Editor - Text input
 | 3   | ![Progress](https://progress-bar.dev/1/)| 3. Editor - Canvas and images
 | 4   | ![Progress](https://progress-bar.dev/1/)| 4. Editor - Generation and Download
